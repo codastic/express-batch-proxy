@@ -1,0 +1,31 @@
+{
+  "name": "express-batch-proxy",
+  "description": "Batch API controller for ExpressJS",
+  "version": "0.1.0",
+  "homepage": "https://github.com/codastic/express-batch-proxy",
+  "author": "Mario Volke (https://github.com/webholics)",
+  "main": "index.js",
+  "contributors": [
+    "Christian Ranz (https://github.com/ranzwertig)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:codastic/express-batch-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com:codastic/express-batch-proxy/issues"
+  },
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "keywords": [
+    "api",
+    "expressjs"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "request": "~2.40.0",
+    "async": "~0.9.0"
+  }
+}
